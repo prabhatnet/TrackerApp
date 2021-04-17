@@ -1,0 +1,15 @@
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\TrackerApplication.exe
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\TrackerApplication.deps.json
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\TrackerApplication.runtimeconfig.json
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\TrackerApplication.runtimeconfig.dev.json
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\TrackerApplication.dll
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\TrackerApplication.pdb
+C:\Users\prabh\Source\Repos\TrackerAppClone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.csprojAssemblyReference.cache
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.AssemblyInfoInputs.cache
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.AssemblyInfo.cs
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.csproj.CoreCompileInputs.cache
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.csproj.CopyComplete
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.dll
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.pdb
+C:\Users\prabh\Source\Repos\TrackerAppClone\obj\Debug\netcoreapp3.1\TrackerApplication.genruntimeconfig.cache
