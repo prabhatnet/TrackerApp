@@ -1,0 +1,13 @@
+C:\Users\prabh\source\repos\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.exe
+C:\Users\prabh\source\repos\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.deps.json
+C:\Users\prabh\source\repos\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.json
+C:\Users\prabh\source\repos\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.dev.json
+C:\Users\prabh\source\repos\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.dll
+C:\Users\prabh\source\repos\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.pdb
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csproj.AssemblyReference.cache
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfo.cs
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.dll
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.pdb
+C:\Users\prabh\source\repos\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.genruntimeconfig.cache
